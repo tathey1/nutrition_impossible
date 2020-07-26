@@ -1,6 +1,6 @@
 from scipy.optimize import least_squares
-from scipy.linalg import svd
 import numpy as np
+
 #fat, cholesterol, sodium, carbs, fiber, protein, vitamin A, vitamin B12, Vitamin C, Vitamin D, Calcium, Iron, Potassium
 
 nutrients = ['fat', 'cholesterol', 'sodium', 'carbs', 'fiber', 'protein',
